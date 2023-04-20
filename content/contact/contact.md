@@ -21,7 +21,7 @@ content:
   address:
     street: 5, Bommelscheuer
     city: Bascharage
-    region: CA
+    region: (anciennement Z.I. Bommelscheuer)
     postcode: '4940'
     country: Luxembourg
     country_code: LU
@@ -30,8 +30,8 @@ content:
     longitude: '5.933238'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 08:00 to 20:00'
-  appointment_url: 'https://calendly.com'
+    - 'Monday to Friday 08:00 to 20:00'
+  #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
