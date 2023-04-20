@@ -51,7 +51,7 @@ social:
     link: https://github.com/ReinerD
   - icon: gitlab
     icon_pack: fab
-    link: https://git.list.com/reiner.dieden
+    link: http://git.list.com/reiner.dieden
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
