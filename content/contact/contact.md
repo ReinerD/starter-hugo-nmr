@@ -19,9 +19,9 @@ content:
   phone: +352 621 736 879
   lab: 4579
   address:
-    street: 5, Bommelscheuer
+    street: 5, Bommelscheuer, (anciennement Z.I. Bommelscheuer)
     city: Bascharage
-    region: (anciennement Z.I. Bommelscheuer)
+    region: LU
     postcode: '4940'
     country: Luxembourg
     country_code: LU
