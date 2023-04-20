@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-NO access to the instrument today because of maintenance 
+NO access to the instrument next Tuesday (2023-04-25) because of maintenance 
 <!--more-->
 probably starting 10am till 5pm.
 
