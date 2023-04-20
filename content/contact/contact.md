@@ -15,22 +15,22 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: reiner.dieden@list.lu
+  phone: +352 621 736 879
+  lab: 4579
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: 5, Bommelscheuer
+    city: Bascharage
     region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    postcode: '4940'
+    country: Luxembourg
+    country_code: LU
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '49.567798'
+    longitude: '5.933238'
+  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Monday 08:00 to 20:00'
   appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
