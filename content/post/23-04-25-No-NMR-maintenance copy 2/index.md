@@ -1,8 +1,8 @@
 ---
 title: Maintenance 
 date: 2023-04-21
-image:
-  focal_point: 'top'
+#image:
+#  focal_point: 'top'
 ---
 
 **No access** to the instrument next Tuesday (2023-04-25) because of maintenance 
