@@ -20,4 +20,10 @@ design:
 
 <br>
 
-
+NMR is an essential tool for chemical research.  
+Read more about:
+- structure determination
+- mixture analysis
+- purity determination
+- chemical exchange
+- materials characterisation
