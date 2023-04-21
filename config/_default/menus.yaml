@@ -7,6 +7,12 @@ main:
   - name: Tour
     url: tour
     weight: 10
+  - name: HowTo
+    url: howto
+    weight: 12
+  - name: Resources
+    url: resources
+    weight: 12
   - name: News
     url: post
     weight: 20
