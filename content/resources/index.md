@@ -21,7 +21,7 @@ Internal Tools:
 
 Software Documentation:
   - [nmrutils](http://nmr:80/nmrutils/) to be done
-  - [nmrToolKit](http://nmr:80/listdoc)[^1]
+  - [nmrToolKit](http://nmr:80/listdoc/)[^1]
   - [BackupPC](http://nmr:80/BackupPC/)
   - nmrAccounting (to be done)
 

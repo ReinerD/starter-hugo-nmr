@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/resources/index.md",
+                "file": "content/post/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/resources/index.md",
+                "file": "content/post/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/resources/index.md",
+                "file": "content/post/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/resources/index.md"
+                "file": "content/post/_index.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "3f12f0da15163500",
   "lastOpenFiles": [
-    "content/howto/index.md",
-    "content/resources/index.md",
-    "content/home/cta.md",
+    "content/post/23-04-19-No-NMR-maintenance copy/index.md",
+    "content/home/news.md",
+    "content/home/welcome.md",
     "content/home/index.md",
+    "content/resources/index.md",
+    "content/howto/index.md",
+    "content/home/cta.md",
     "content/home/image.md",
     "content/post/_index.md",
     "content/people/people.md",
     "content/people/index.md",
-    "content/home/news.md",
-    "content/home/welcome.md",
     "content/layouts/partials/header.html",
     "content/layouts/partials/header.html.html",
     "content/layouts/partials/mathjax_support.html",

@@ -9,3 +9,4 @@ banner:
   caption: ''
   image: ''
 ---
+![automation status](http://nmr@nmr:8015/template-automation.htm)
