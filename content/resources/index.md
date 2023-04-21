@@ -20,9 +20,10 @@ Internal Tools:
   - [Spectrometer load planning](http://nmr:3001)
 
 Software Documentation:
-  - [nmrutils](http://nmr:80/listdoc)
+  - [nmrutils](http://nmr:80/nmrutils/) to be done
   - [nmrToolKit](http://nmr:80/listdoc)[^1]
-  - nmrAccouting
+  - [BackupPC](http://nmr:80/BackupPC/)
+  - nmrAccounting (to be done)
 
 Courses:
   - Introduction to NMR
