@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "4d137639ae035980",
+    "type": "split",
+    "children": [
+      {
+        "id": "f13afe0f33753193",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f12f0da15163500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/resources/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c77032b0bdc515f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "054526001fea9479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a50ea41d56b88d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c14d960bd24300b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0877496a2ec80ed1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95d4cef655fbcacc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c7e3d4b46476787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acbbeb005b3feaa0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/resources/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a9ffe83e2b00f08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/resources/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c57170d979e833ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "643be5d267c49c5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/resources/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f12f0da15163500",
+  "lastOpenFiles": [
+    "content/howto/index.md",
+    "content/resources/index.md",
+    "content/home/cta.md",
+    "content/home/index.md",
+    "content/home/image.md",
+    "content/post/_index.md",
+    "content/people/people.md",
+    "content/people/index.md",
+    "content/home/news.md",
+    "content/home/welcome.md",
+    "content/layouts/partials/header.html",
+    "content/layouts/partials/header.html.html",
+    "content/layouts/partials/mathjax_support.html",
+    "content/layouts/partials/header.html.md",
+    "content/admin/index.md",
+    "content/layouts/partials/mathjax_support.md",
+    "content/layouts/partials/header.md",
+    "content/layouts/partials/mathjax_support.html.md",
+    "content/layouts/partials",
+    "content/layouts",
+    "assets/jsconfig.json",
+    "resources/_gen/images/coders_huc89dd29c406fa9705750045ac734a5cd_168852_1920x1920_fit_q75_h2_lanczos.webp",
+    "resources/_gen/images/nmr_hu5a1215a16a36a2712480f7ddf03b6d34_1345486_800x0_resize_q75_lanczos.jpg",
+    "resources/_gen/images/nmr_hu5a1215a16a36a2712480f7ddf03b6d34_1345486_1200x0_resize_q75_lanczos.jpg",
+    "resources/_gen/images/nmr_hu5a1215a16a36a2712480f7ddf03b6d34_1345486_400x0_resize_q75_lanczos.jpg",
+    "resources/_gen/images/authors/Oussema Kachouri/avatar_hu9541950c651db44471b2fa87e82c2c18_27061_270x270_fill_q75_lanczos_center.jpg",
+    "resources/_gen/images/authors/Oussema Kachouri",
+    "resources/_gen/images/authors/Coraline Sirot/avatar_hu326033f52f0c461bd8c6433a765f9123_30201_270x270_fill_q75_lanczos_center.jpg",
+    "resources/_gen/images/authors/Coraline Sirot",
+    "resources/_gen/images/authors/Chuanyu Yan/avatar_hu5ab8531b4a463cc9758f55cfd9bb25cc_22781_270x270_fill_q75_lanczos_center.jpg",
+    "resources/_gen/images/authors/Chuanyu Yan",
+    "resources/_gen/images/authors/Adrien Comès/avatar_hu67de430866833be8a6fe9482251b29e8_30647_270x270_fill_q75_lanczos_center.jpg",
+    "resources/_gen/images/authors/Adrien Comès",
+    "resources/_gen/images/post/23-04-25-No-NMR-maintenance copy 2/featured_hu64fb616fd589b310a1ffa19dd93eee83_5121856_150x0_resize_q75_h2_lanczos.webp",
+    "resources/_gen/images/event/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_h2_lanczos.webp",
+    "content/publication/_index.md"
+  ]
+}
