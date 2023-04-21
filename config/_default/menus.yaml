@@ -12,7 +12,7 @@ main:
     weight: 12
   - name: Resources
     url: resources
-    weight: 12
+    weight: 15
   - name: News
     url: post
     weight: 20
