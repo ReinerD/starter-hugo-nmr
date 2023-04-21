@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PostDocs
+  - Alumni
 ---
 
 Adrien did his PhD with Prof. Carmela Aprile at the University of Namur. After his Postdoc at LIST, he now moved on to Amer-Sil here in Luxembourg.
