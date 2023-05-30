@@ -26,7 +26,8 @@ Software Documentation:
   - nmrAccounting (to be done)
 
 Courses:
-  - Introduction to NMR
+  - [Introduction to NMR - text](/IntroNMR)
+  -  [Introduction to NMR - slides](/presentations/export/slides)
   - Introduction to solid state NMR
   - [James Keeler's lectures](http://www-keeler.ch.cam.ac.uk/lectures/) where you can also find material related to or early versions of his book 'Understanding NMR Spectroscopy'
 

@@ -1,6 +1,7 @@
 ---
 title: Maintenance 
 date: 2020-12-01
+categories: [maintenance]
 image:
   focal_point: 'top'
 ---

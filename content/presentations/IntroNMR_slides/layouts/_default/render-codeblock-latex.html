@@ -1,0 +1,9 @@
+---
+
+---
+
+{{ $class := .Attributes.class | default ""    }}
+{{ .Page.Store.Set "hasMathjax" true }}
+<div class="latex {{ $class }}">
+  $${{.Inner}}$$
+</div>
